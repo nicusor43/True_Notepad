@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuExample", "MenuExample\MenuExample.csproj", "{F5064ABC-DDD5-4F6E-98ED-385450F18A4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "True_Notepad", "True Notepad\True_Notepad.csproj", "{F5064ABC-DDD5-4F6E-98ED-385450F18A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
